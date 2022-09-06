@@ -1,3 +1,3 @@
 # jss-ooc
 
-OOC Assignment - 2 JAVA Programs
+OOC Contest - 2 JAVA Programs
